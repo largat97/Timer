@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container-timer {
+    height: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 130px;
+    margin-right: 26px;
+
+}
+
+.static-timer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+   
+}
+
+.text-timer {
+    padding-right: 42px;
+    color: grey;
+}
